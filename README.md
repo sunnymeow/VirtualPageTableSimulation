@@ -4,7 +4,7 @@ VIRTUAL MEMORY = 16k => MAX PAGEs AVAILABLE = 1000
 RAM = 1K => MAX FRAMEs AVAILABE = 64  
 Victim page selection algorithm: Least Frequently Used(LFU)  
 
-# What does the program do?
+# Virtual Page Table Simulation
 1. Ask for the number of pages in their program.
 2. Ask for the number of frames allocated to the program.
 3. Randomly generate a program counter instruction address (known as logical address).
