@@ -1,5 +1,3 @@
-# VirtualPageTableSimulation
-
 ## Default Setting
 >PAGE SIZE = SECTOR SIZE = 16  
 VIRTUAL MEMORY = 16k => MAX PAGEs AVAILABLE = 1000  
