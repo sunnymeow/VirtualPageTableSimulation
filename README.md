@@ -1,7 +1,7 @@
 # Default Setting
 >PAGE SIZE = SECTOR SIZE = 16  
-VIRTUAL MEMORY = 16k => MAX PAGEs AVAILABLE = 1000  
-RAM = 1K => MAX FRAMEs AVAILABE = 64  
+VIRTUAL MEMORY = 16k     => MAX PAGEs AVAILABLE = 1000  
+RAM = 1024               => MAX FRAMEs AVAILABE = 64  
 Victim page selection algorithm: Least Frequently Used(LFU)  
 
 # Virtual Page Table Simulation
